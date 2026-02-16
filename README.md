@@ -14,6 +14,7 @@
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
+![Library_project](https://github.com/BijoyBytes/profit-loss-analysis-excel/blob/main/Market%20Performance%20vs%20Target.jpeg)
 
 ## Finance Report :
 
